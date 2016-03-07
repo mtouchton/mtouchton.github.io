@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://mtouchton.github.io
+title: Michael Touchton
+email: mtouchton@gmail.com
+author: Michael Touchton
+description: On Holistic Transformation
+paginate: 1
+google_analytics: 
